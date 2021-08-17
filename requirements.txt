@@ -1,11 +1,9 @@
 urllib3
 regex
 pytube
-vlc
+vlc-ctrl
 PySimpleGUI
-sys
 speech_recognition
 playsound2
 gTTS
-os
 pyaudio
