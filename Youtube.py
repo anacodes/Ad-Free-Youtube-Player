@@ -5,7 +5,7 @@ import vlc
 import os
 from sys import platform as PLATFORM
 import speech_recognition as sr 
-import playsound # to play saved mp3 file 
+import playsound2 as playsound # to play saved mp3 file 
 from gtts import gTTS # google text to speech 
 import os # to save/open files 
 from pytube import YouTube    
